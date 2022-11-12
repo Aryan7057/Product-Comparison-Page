@@ -1,0 +1,27 @@
+.reg-container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+}
+
+input[type=text]:enabled {
+    background: black;
+    color: whitesmoke;
+}
+
+input[type=number]:enabled {
+    background: black;
+    color: whitesmoke;
+    -moz-appearance: textfield;
+}
+
+input[type="number"]:disabled {
+    background-color: black;
+    color: white;
+    -moz-appearance: textfield;
+}
+
+label {
+    color: white;
+}

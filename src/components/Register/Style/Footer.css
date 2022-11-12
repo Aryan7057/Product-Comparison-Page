@@ -1,0 +1,15 @@
+#reg-footer {
+    background-color: rgb(12, 1, 29);
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    padding-top: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    font-weight: bolder;
+    cursor: progress;
+    font-size: small;
+}

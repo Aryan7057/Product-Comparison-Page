@@ -1,0 +1,12 @@
+#home-p-header {
+    background-color: rgb(12, 1, 29);
+    color: white;
+    height: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: context-menu;
+}

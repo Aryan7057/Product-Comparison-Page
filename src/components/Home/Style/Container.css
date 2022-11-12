@@ -1,0 +1,35 @@
+.home-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.home-container-1 {
+    width: 50%;
+}
+.home-container-2 {
+    width: 50%;
+}
+.form-select {
+    background-color: rgba(96, 12, 129, 0.692);
+    color: white;
+}
+.reg-button {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.comparison-container {
+    display: flex;
+    color: white;
+    margin-top: 50px;
+}
+.comparison-container-1 {
+    width: 50%;
+    text-align: center;
+}
+.comparison-container-2 {
+    width: 50%;
+    text-align: center;
+}
+h3 {
+    padding: 15px;
+}
